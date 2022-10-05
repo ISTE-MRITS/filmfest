@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+        .div {
+            height: 80vh;
+        }
+
+        .img1 {
+            width: 250px;
+            height: 50px;
+        }
+
+        .img2 {
+            width: 400px;
+            height: 50px;
+        }
+
+        .img3 {
+            width: 550px;
+            height: 80px;
+        }
+
+        .img4 {
+            width: 700px;
+            height: 80px;
+        }
+
+        .img {
+            height: 70px;
+            width: 100px;
+        }
+
+        .img0 {
+            height: 70px;
+            width: 130px;
+            padding-left: 25px;
+        }
+
+        .categorya {
+            font-weight: bold;
+            margin: 5px;
+            border-radius: 10px;
+            font-size: 15px;
+            padding: 10px;
+            padding-left: 3px;
+            border-color: #326789;
+            color: black;
+            border-width: 5px;
+            border-style: solid;
+            font-family: Martel;
+        }
+
+        .categoryb {
+            font-weight: bold;
+            margin: 5px;
+            border-radius: 10px;
+            font-size: 15px;
+            padding: 10px;
+            margin-left: 0px;
+            border-color: #78A6C8;
+            color: black;
+            border-width: 5px;
+            border-style: solid;
+            font-family: Martel;
+        }
+
+        .bg-color {
+            background-color: #9FE5FB;
+
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .logo {
+            height: 40px;
+            width: 40px;
+        }
+
+        .icon {
+            padding: 10px;
+            width: 40px;
+            height: 40px;
+            background-color: #eef0f2;
+            border-radius: 30px;
+        }
+
+        .hr-line {
+            background-color: #5a7184;
+        }
+
+        .color {
+            color: #5a7184;
+            font-size: 18px;
+        }
+
+        .paragraph {
+            color: #5a7184;
+            font-size: 15px;
+        }
+
+        .main-heading {
+            color: #5a7184;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .icon2 {
+            color: #5a7184;
+        }
+
+        .para {
+            color: #5a7184;
+        }
+
+        .text {
+            color: #5a7184;
+
+        }
